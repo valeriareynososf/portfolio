@@ -1,0 +1,13 @@
+.h1Thanks, .returnLink {
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.returnLink a {
+    color: #333;
+}
+.returnLink a:hover {
+color: #E27689;
+}
