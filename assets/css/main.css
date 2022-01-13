@@ -1756,15 +1756,15 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 63px;
-			height: 80px;
+			width: 64px;
+			height: 78px;
 			background: #f00;
 			border-radius: 5px;
 		}
 
 			.image.avatar48 img {
-				width: 63px;
-				height: 80px;
+				width: 64px;
+				height: 78px;
 				border-radius: 5px;
 			}
 
